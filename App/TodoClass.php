@@ -30,5 +30,19 @@ class TodoClass
         }
     }
 
+    public  function  index()
+    {
+        $query = "SELECT * FROM todo ";
+        $result =  $this->database->query($query);
+        $result_out = [];
+        foreach ($result as $row) {
+            $result_out[] = ['id' => $row['id'],'title' => $row['title'],'body' => $row['body']];
+        }
+        return $result_out;
+    }
 
+    public function create(array $array)
+    {
+        $query = "INSERT INTO `todo` (`id`, `title`, `body`, `done`, `created_at`, `updated_at`) VALUES (NULL, ?, ?, '0', ?, ?)";
+    }
 }
