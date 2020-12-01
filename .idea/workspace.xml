@@ -1,16 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5795d125-ee2c-4125-bebe-11f661806e5e" name="Default Changelist" comment="" />
+    <list default="true" id="5795d125-ee2c-4125-bebe-11f661806e5e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/App/SmsClass.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sendText.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/BincomTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BincomTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
   <component name="ProjectId" id="1jmAaqokF21IZ9kMSrpiXSNNRn7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -18,7 +52,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/HNG_intern/web_scrapping_php" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/HNG_intern/todoYii" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -30,22 +64,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604398960259</updated>
-      <workItem from="1604398961357" duration="4032000" />
+      <workItem from="1604398961357" duration="4403000" />
+      <workItem from="1604513506644" duration="391000" />
+      <workItem from="1606851620131" duration="1243000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="494" y="213" key="FileChooserDialogImpl" timestamp="1604400852886">
+    <state x="494" y="213" key="FileChooserDialogImpl" timestamp="1604513900532">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
-    <state x="494" y="213" key="FileChooserDialogImpl/0.28.1366.740@0.28.1366.740" timestamp="1604400852886" />
-    <state x="427" y="143" width="502" height="507" key="NewPhpClassDialog" timestamp="1604400251497">
+    <state x="494" y="213" key="FileChooserDialogImpl/0.28.1366.740@0.28.1366.740" timestamp="1604513900532" />
+    <state x="427" y="143" width="502" height="505" key="NewPhpClassDialog" timestamp="1606851813088">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
-    <state x="427" y="143" width="502" height="507" key="NewPhpClassDialog/0.28.1366.740@0.28.1366.740" timestamp="1604400251497" />
+    <state x="427" y="143" width="502" height="505" key="NewPhpClassDialog/0.28.1366.740@0.28.1366.740" timestamp="1606851813088" />
     <state x="500" y="333" width="355" height="128" key="NewPhpFileDialog" timestamp="1604400126740">
       <screen x="0" y="28" width="1366" height="740" />
     </state>

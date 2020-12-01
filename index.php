@@ -164,7 +164,6 @@ $todoClass = new TodoClass();
     }else{
         echo "<li>";
     }
-
     echo "
     
 		<h2> ".($key+1)."</h2>
